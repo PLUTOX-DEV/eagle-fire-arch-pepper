@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "$HOODOWEEN",
+      "hasCanvas": false,
+      "bodyTextLen": 2402,
+      "bodyTextHash": "c75bc31fc29d5e7f92cfefd9dd3fc19fe604c6f18241d499852cdedf45e6885b",
+      "bodyTextPrefix": "Hoodoween Home About Tokenomics Fees Community Roadmap CA: COMIN",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "$HOODOWEEN",
+      "hasCanvas": false,
+      "bodyTextLen": 2327,
+      "bodyTextHash": "a8e2dc725e518aae72a9ba0e52a9b56c83a45f511e7cb726bf93fc2ff40d3c9c",
+      "bodyTextPrefix": "Hoodoween HALLOWEEN HAS ENTERED THE HOOD Welcome to $ HOOD WEEN ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
